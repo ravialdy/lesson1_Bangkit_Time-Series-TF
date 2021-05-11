@@ -2,7 +2,7 @@
 
 Bangkit is an academy led Google, Gojek, Tokopedia, and Traveloka that has a unique career readiness program delivered with support from industry experts and industry partners. (More info : https://grow.google/intl/id_id/bangkit/)
 
-#### Here, I want to create time series model based on my own synthetic time series using tensorflow. Check it out :)
+#### *) Here, I want to create time series model based on my own synthetic time series using tensorflow. Check it out :)
 
 ### A Brief Explanation about Generated Synthetic Time Series.
 
