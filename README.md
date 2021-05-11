@@ -47,6 +47,8 @@ Notice that our result using this method is not excellent, but it's also not bad
 
 **Conclusion : Using Naive Forecast is still very good compared with other three methods. Maybe we can still minimize the error by implementing a moving averaging on past values to remove some of the noise in our data.**
 
+#### For complete work, please take a look to my notebook. I am open for receiving some feedbacks and suggestions if I made mistakes :)
+
 ### Reference : 
 
 * https://github.com/lmoroney/dlaicourse.git
