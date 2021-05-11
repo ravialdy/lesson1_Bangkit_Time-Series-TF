@@ -1,4 +1,4 @@
-## Lesson Learned 1 Bangkit Academy : Time Series using Tensorflow (Synthetic Data)
+## Lesson Learned 1 Bangkit Academy : Time Series using Tensorflow      (Synthetic Data)
 
 Bangkit is an academy led Google, Gojek, Tokopedia, and Traveloka that has a unique career readiness program delivered with support from industry experts and industry partners. (More info : https://grow.google/intl/id_id/bangkit/)
 
